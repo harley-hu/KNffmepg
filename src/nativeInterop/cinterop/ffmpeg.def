@@ -1,0 +1,1 @@
+headers = libavcodec/avcodec.h libavformat/avformat.h libavfilter/avfilter.h libavcodec/jni.h
